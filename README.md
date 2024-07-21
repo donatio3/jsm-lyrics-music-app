@@ -1,8 +1,20 @@
-# Project Lyrics
+Project Lyrics
 
-Develop an elegant React.js Music Application. 
 
-Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
+Music App
+- Description
+Music App is a web application for streaming music, inspired by the features of Spotify.
+It allows users to search for tracks and artists,and explore popular music trends.
+
+- Features
+  
+Track and Artist Search: Find your favorite music or discover new artists with the search function.
+Nearby You: Discover tracks that are popular in your region.
+Global Charts: View the top tracks worldwide and find out what’s trending around the globe.
+Top Artists: Explore the best artists and their achievements.
+Main Page: Change track genres to find music that suits your mood.
+Lyrics Viewing: Navigate through tracks and view the lyrics of songs.
+Artist Profiles: Visit artist pages and see their top 10 tracks.
 
 # Contributing
 

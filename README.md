@@ -1,7 +1,6 @@
-Project Lyrics
 
 
-Music App
+Music Lyrics App
 - Description
   Music App is a web application for streaming music, inspired by the features of Spotify.
   It allows users to search for tracks and artists,and explore popular music trends.

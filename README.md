@@ -16,6 +16,15 @@ Main Page: Change track genres to find music that suits your mood.
 Lyrics Viewing: Navigate through tracks and view the lyrics of songs.
 Artist Profiles: Visit artist pages and see their top 10 tracks.
 
+- Technologies Used
+React: For building the user interface.
+Redux Query: For managing and fetching data efficiently.
+Shazam Core API: For music and artist data.
+Geoapify API: For location-based features.
+Tailwind CSS: For styling the application with utility-first CSS.
+Vite: For fast and optimized bundling of the project.
+
+
 # Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue.
